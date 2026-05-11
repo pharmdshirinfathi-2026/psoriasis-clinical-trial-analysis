@@ -1,0 +1,14 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+
+# Generated analysis outputs
+meta_data_psoriasis_*/
+
+# OS files
+.DS_Store
+Thumbs.db
